@@ -1,10 +1,10 @@
 <?php
 // Google reCAPTCHA API keys settings
-$siteKey 	= '6LcXb2EgAAAAAEoSJJyUaFG3_xZ9mwSeK4u40dMe';
-$secretKey 	= '6LcXb2EgAAAAAEmVJ0TkrJsq2j64ua5xx6QvgkgI';
+$siteKey 	= '6LeFC20hAAAAADMK6FkCCziDq5q2JbDcbhyBIH7f';
+$secretKey 	= '6LeFC20hAAAAAKEv-jBvDSkupjBkaEsXiuwKVPLJ';
 
 // Email settings
-$recipientEmail = 'contact@themenesia.com';
+$recipientEmail = 'chondromollikaahmed@gmail.com';
 
 
 // If the form is submitted
